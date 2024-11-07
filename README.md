@@ -21,7 +21,14 @@ En el área de servicio compuesta por los ingenieros de servicio ubicados en dif
 
 
 ### Alcance
-Implementar una aplicación que permita llevar y controlar el inventario real, realizar las solicitudes de los repuestos de equipos biomédicos para laboratorio clínico de una manera ágil, sencilla y rápida.
+>Diseñar una aplicación que permita manejar roles de acceso a esta, y que dependiendo el rol con el que se identifique, lo dirija al respetivo modulo asignado para el rol
+
+>>El rol de Administrador quien habilite los distintos permisos según el rol (Logística o Ingeniero de servicio)
+
+>>El rol para el módulo de los ingenieros de servicio tendrá la opción de solicitar repuestos para los equipos biomédicos listando el stock real de una manera sencilla, tipo carrito de mercado, en el cual irá agregando los repuestos y cantidades deseadas. Deberá ingresar los datos tales como, dirección de entrega, ciudad, contacto de quien recibe, entre otros, los cuales serán campos obligatorios para finalizar la solicitud. También tendrá acceso al área de devoluciones, donde registrará los repuestos que no fueron usados y devueltos a logística.
+
+>>El rol de logística tendrá Acceso al módulo de inventario con los permisos para modificar, crear y eliminar los repuestos para los equipos biomédicos, consultar solicitudes y devoluciones que han realizado los ingenieros de servicio y el estado de cada solicitud (alistamiento, enviado, cancelado). Ingresar el número de guía entregada por la transportadora a la solicitud para que el ingeniero pueda realizar seguimiento. Validar el formato de devoluciones realizada por el ingeniero con lo enviado físicamente y devolver al inventario.
+
 ### Integrantes
 >Andres Hoyos
 
