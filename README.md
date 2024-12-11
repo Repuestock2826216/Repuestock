@@ -31,7 +31,7 @@ En el área de servicio compuesta por los ingenieros de servicio ubicados en dif
 
 ### Justificación
 
-     Un sistema de control de inventarios es crucial para optimizar los recursos, minimizar perdidas y mejorar la eficacia de la empresa. El manejo eficiente de los mismos permite a las compañías, mantener un control de las existencias en almacén, para lograr presentar en todo momento un estado confiable de la situación económica en cuanto al manejo de los insumos. 
+     >Un sistema de control de inventarios es crucial para optimizar los recursos, minimizar perdidas y mejorar la eficacia de la empresa. El manejo eficiente de los mismos permite a las compañías, mantener un control de las existencias en almacén, para lograr presentar en todo momento un estado confiable de la situación económica en cuanto al manejo de los insumos. 
      Por lo anterior, es necesario establecer lineamientos encaminados a lograr un control eficaz, que justifique los recursos humanos y logísticos empleados en la sistematización de actividades propias del sector de donde se manejan los materiales, maquinarias o herramientas utilizadas para la operación de la compañía.
      Mediante este proyecto buscamos garantizar una gestión precisa bajo los requerimientos de los ingenieros o diferentes áreas que requieran validar la disponibilidad de los repuestos para equipos biomédicos para laboratorio clínico, reduciendo costos por exceso o escasez de stock. 
      Además, mejorar la toma de decisiones al tener datos exactos sobre la rotación de inventario y pronósticos para una planeación estratégica más efectiva.  
