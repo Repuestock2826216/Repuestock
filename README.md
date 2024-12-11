@@ -29,6 +29,13 @@ En el área de servicio compuesta por los ingenieros de servicio ubicados en dif
 
 >>El rol de logística tendrá Acceso al módulo de inventario con los permisos para modificar, crear y eliminar los repuestos para los equipos biomédicos, consultar solicitudes y devoluciones que han realizado los ingenieros de servicio y el estado de cada solicitud (alistamiento, enviado, cancelado). Ingresar el número de guía entregada por la transportadora a la solicitud para que el ingeniero pueda realizar seguimiento. Validar el formato de devoluciones realizada por el ingeniero con lo enviado físicamente y devolver al inventario.
 
+### Justificación
+
+     Un sistema de control de inventarios es crucial para optimizar los recursos, minimizar perdidas y mejorar la eficacia de la empresa. El manejo eficiente de los mismos permite a las compañías, mantener un control de las existencias en almacén, para lograr presentar en todo momento un estado confiable de la situación económica en cuanto al manejo de los insumos. 
+     Por lo anterior, es necesario establecer lineamientos encaminados a lograr un control eficaz, que justifique los recursos humanos y logísticos empleados en la sistematización de actividades propias del sector de donde se manejan los materiales, maquinarias o herramientas utilizadas para la operación de la compañía.
+     Mediante este proyecto buscamos garantizar una gestión precisa bajo los requerimientos de los ingenieros o diferentes áreas que requieran validar la disponibilidad de los repuestos para equipos biomédicos para laboratorio clínico, reduciendo costos por exceso o escasez de stock. 
+     Además, mejorar la toma de decisiones al tener datos exactos sobre la rotación de inventario y pronósticos para una planeación estratégica más efectiva.  
+
 ### Integrantes
 >Andres Hoyos
 
